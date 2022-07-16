@@ -1,0 +1,82 @@
+*{
+
+  margin: 0;
+  padding:0;
+}
+
+/* .flexbox{
+
+display: flex;
+justify-content: flex-start;
+
+} */
+
+.attribution{
+
+  text-align: center;
+}
+
+.client-logos{
+
+ margin-right: 20px;
+
+
+}
+.drpdwn-img{
+
+  margin-right: 10px;
+}
+
+.imgds{
+
+ height: 500px;
+ width:700px;
+
+}
+
+.img_div{
+
+  padding: 80px;
+}
+
+.logos{
+
+  margin-top:165px;
+}
+.lgin{
+
+  color:black;
+
+}
+#learnMore{
+
+  margin-top: 40px;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+#learnMore:hover{
+
+  background-color: white;
+  color:black;
+}
+
+.side-line{
+
+  padding: 50px;
+  margin-top: 140px;
+}
+
+.tag{
+
+  font-size: 5rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tag-text{
+
+  text-align: justify;
+  font-size: 1.2rem;
+  color: #5E454B;
+  margin-top: 40px;
+}
